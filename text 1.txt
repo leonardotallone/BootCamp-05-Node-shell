@@ -1,0 +1,8 @@
+Marca Harley Davidson
+Familia Dyna
+Modelo Street Bob
+Año 2017
+Color Black Denim
+Origen Usa
+Destino Argentina
+Ciudad Buenos Aires San Isidro

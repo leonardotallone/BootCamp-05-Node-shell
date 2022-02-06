@@ -1,0 +1,7 @@
+Nombre Leonardo
+Segundo Nombre Gabriel
+Apellido Tallone
+Documento 30074389
+Ciudad Junin
+Provincia Buenos Aires
+Pais Argentina

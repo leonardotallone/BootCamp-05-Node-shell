@@ -1,0 +1,23 @@
+{
+  "name": "05-node-shell-review",
+  "version": "1.0.0",
+  "description": "![logop5](https://p5-hall-of-fame.s3.amazonaws.com/p5logo.png)",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plataforma5/05-Node-shell-review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plataforma5/05-Node-shell-review/issues"
+  },
+  "homepage": "https://github.com/Plataforma5/05-Node-shell-review#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
